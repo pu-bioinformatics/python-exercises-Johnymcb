@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash #CK: Shebang for bash not python -2
 sequence = input("paste here your sequence:  ")
 print("The length of the sequence is %i" % len(sequence),"nucleotides")
 A_count=sequence.count('A')

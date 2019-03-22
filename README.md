@@ -8,3 +8,6 @@ For each of the exercises in in the Jupyter Notebooks, you are required to creat
 
 
 Work through all the exercises to notebook 6
+
+## Comments 
+- You have not updated your README -2 

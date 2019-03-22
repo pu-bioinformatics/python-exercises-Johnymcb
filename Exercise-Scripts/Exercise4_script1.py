@@ -9,4 +9,4 @@ mySeq.reverse()
 #print (mySeq)
 complement = [d[base] for base in mySeq]
 R_complement = "".join(complement)
-print (R_complement)
+print (R_complement) ##CK add a message
